@@ -4,6 +4,6 @@ public class JavaTaskOne {
     public static void main(String[] args){
 
         // print message
-        System.out.print("Ucze\nsie\nprogramowania");
+        System.out.print("Ucze\nsie\nprogramowania\ni\ncommitowania");
     }
 }
